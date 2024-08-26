@@ -5,31 +5,24 @@
 
 ## Quick Installation
 
-    git clone https://github.com/ekramasif/Inventory_Management_System.git
+    git clone https://github.com/ridasadiki/GestionStock.git
 
     cd Inventory_Management_System
-    
+
 ### Composer
 
     composer update
-    
-    
+
+
 ### For Environment Variable Create
- 
+
     cp .env.example .env
- 
-    
+
+
  ### For Migration table in database [Create database name as ```IMS```]
- 
+
     php artisan migrate
-    
+
 ### Server ON ```url: http://127.0.0.1:8000/```
 
     php artisan serve
-
-## Our valuable team👩‍💻👨‍💻 :
-
-<p align="center">
-    <img src="https://contributors-img.web.app/image?repo=ekramasif/Inventory_Management_System" />
-    <img src="https://repobeats.axiom.co/api/embed/3b3a0a5e41ff35d0e93ef4ba7d1eb3afcfa1f64a.svg" />
-</p>
