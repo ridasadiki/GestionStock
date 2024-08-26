@@ -7,7 +7,7 @@
 
     git clone https://github.com/ridasadiki/GestionStock.git
 
-    cd Inventory_Management_System
+    cd gestionStock
 
 ### Composer
 
